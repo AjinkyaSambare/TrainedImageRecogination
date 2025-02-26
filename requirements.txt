@@ -1,0 +1,9 @@
+
+# python3.10 -m venv venv
+numpy
+pandas
+tensorflow
+keras
+opencv-python
+matplotlib
+scikit-learn
